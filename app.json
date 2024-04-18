@@ -17,7 +17,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "Qasim"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "19_4_415e_8430_826b"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
